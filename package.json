@@ -1,0 +1,25 @@
+{
+  "name": "tastytracks",
+  "version": "1.0.0",
+  "description": "Food delivery app using ReactJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivambhavsar710/TastyTracks.git"
+  },
+  "keywords": [
+    "origin"
+  ],
+  "author": "Shivam Bhavsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivambhavsar710/TastyTracks/issues"
+  },
+  "homepage": "https://github.com/shivambhavsar710/TastyTracks#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+ 
