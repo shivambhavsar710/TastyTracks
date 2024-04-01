@@ -2,8 +2,8 @@
   "name": "tastytracks",
   "version": "1.0.0",
   "description": "Food delivery app using ReactJS",
-  "main": "index.html",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/shivambhavsar710/TastyTracks#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
   },
- 
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
